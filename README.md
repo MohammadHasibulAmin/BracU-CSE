@@ -1,2 +1,2 @@
 # BracU-CSE
- all my codes related to my university.
+ all my codes related to university.
